@@ -4,12 +4,15 @@ body {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 18px;
     line-height: 150%;
-    color: #333;
-    background: #efeee7;
+    color: rgb(255, 255, 255);
+    background: #000000;
+    
   }
   
   header {
-    background: #333;
+    background: rgb(158, 0, 87);
+    
+
   }
   
   h1 {
@@ -17,16 +20,17 @@ body {
     margin: 0;
     margin-bottom: 20px;
     font-size: 28px;
-    color: #eee;
+    color: rgb(255, 255, 255);
     text-align: center;
   }
   
   h2 {
     font-size: 24px;
+    font-style: oblique;
   }
   
   a {
-    color: #d21034;
+    color: #ffffff;
   }
   
   .container {
